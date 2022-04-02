@@ -1,9 +1,7 @@
 basebins-dump
 =============
 
-Various assets in Taurine
-
-Dumped from https://github.com/Odyssey-Team/Taurine
+Various assets in Odyssey/Taurine
 
 common/persona_kb_template: I am not 100% sure about what 
 this is...
@@ -13,7 +11,8 @@ iPhone Distribution: jiu de (DQF6PC5T2P), which is
 
 Licensing
 =========
-This README is licensed under the MIT license.
-Consult the LICENSE file in each subdirectory for their licenses.
+The READMEs licensed under the MIT license. 
+Consult the LICENSE file in each subdirectory for licenses of 
+other files.
 
 This product includes software developed by The Odyssey Team.
