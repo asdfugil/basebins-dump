@@ -1,0 +1,732 @@
+__TEXT
+__text
+__TEXT
+__stubs
+__TEXT
+__stub_helper
+__TEXT
+__const
+__TEXT
+__cstring
+__TEXT
+__unwind_info
+__TEXT
+__oslogstring
+__TEXT
+__DATA_CONST
+__got
+__DATA_CONST
+__mod_init_func
+__DATA_CONST
+__const
+__DATA_CONST
+__DATA
+__la_symbol_ptr
+__DATA
+__data
+__DATA
+__common
+__DATA
+__bss
+__DATA
+__LINKEDIT
+/Users/coolstar/Developer/Odyssey/basebinaries/bin/pspawn_payload-stg2.dylib
+/usr/lib/libc++.1.dylib
+/usr/lib/libSystem.B.dylib
+_8N%@8
++ih8J	
++ih8J	
+a	qa
+e	qa
+i	qa
+"@9h
+!YzC
+a@9H
+	*Hh
+/.disable_tweakinject
+/System/Library/CoreServices/SpringBoard.app/SpringBoard
+org.coolstar.safeboot
+v8@?0
+/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+kCFUserNotificationAlertHeaderKey
+kCFUserNotificationAlertMessageKey
+CFUserNotificationCreate
+kCFCopyStringDictionaryKeyCallBacks
+kCFTypeDictionaryValueCallBacks
+CFDictionaryCreateMutable
+CFDictionaryAddValue
+CFRelease
+__CFStringMakeConstantString
+Tweaks disabled
+Tweaks have been disabled. If you did not do this manually, this was done to automatically prevent a system crash. Use libhooker Configurator to re-enable tweaks.
+_fcntl
+_realpath$DARWIN_EXTSN
+process-fork
+DYLD_INSERT_LIBRARIES
+/usr/lib/system/libdyld.dylib
+_gUseDyld3
+_XSandboxTokensForTweakInject
+org.coolstar.jailbreakd
+DYLD_SHARED_CACHE_DIR
+_XSandboxTokensForTweakInject=
+/usr/lib/pspawn_payload-stg2.dylib
+DYLD_INSERT_LIBRARIES=
+/dyld_shared_cache_arm64
+__ZNK16ImageLoaderMachO8getSlideEv
+__ZNK16ImageLoaderMachO10machHeaderEv
+__ZN4dyldL20sAllCacheImagesProxyE
+__ZN20ImageLoaderMegaDylib13isCacheHandleEPvPjPh
+__ZNK20ImageLoaderMegaDylib8getSlideEv
+__ZNK20ImageLoaderMegaDylib20getIndexedMachHeaderEj
+__ZNK5dyld311MachOLoaded8getSlideEv
+__TEXT
+dyld_v1 
+/System/Library/Caches/com.apple.dyld/
+%s%s%s
+dyld_shared_cache_
+libhooker: Unable to map trampoline
+libhooker: mmap failed!
+libhooker: couldn't find required dyld methods
+libhooker: couldn't find required dyld methods!
+libhooker: SIMD/FP LDR not implemented!
+TARCp
+RBS"
+`FARBSASASASASARBRBSAR
+@_NDR_record
+@_SANDBOX_CHECK_NO_REPORT
+@__NSConcreteGlobalBlock
+@__NSConcreteStackBlock
+@___chkstk_darwin
+@___stack_chk_guard
+@__os_log_default
+@_bootstrap_port
+@_csops
+@_csops_audittoken
+@_execve
+@_fcntl
+@_fork
+@_mach_task_self_
+@_posix_spawn
+@_vfork
+@_vm_page_mask
+@_vm_page_size
+A_voucher_mach_msg_set
+@dyld_stub_binder
+@__Block_object_assign
+@__Block_object_dispose
+@___error
+@___memcpy_chk
+@___shared_region_check_np
+@___snprintf_chk
+@___stack_chk_fail
+@__dyld_get_image_header
+@__dyld_get_image_name
+@__dyld_get_image_vmaddr_slide
+@__dyld_image_count
+@__os_log_error_impl
+@_abort
+@_bootstrap_look_up
+@_bzero
+@_close
+@_csops
+@_dispatch_async
+@_dispatch_once
+@_dispatch_queue_create
+@_dlclose
+@_dlopen
+@_dlsym
+@_exit
+@_free
+@_getenv
+@_getpagesize
+@_getpid
+@_lseek
+@_lstat
+@_mach_msg
+@_mach_msg_destroy
+@_mach_port_deallocate
+@_malloc
+@_memcmp
+@_memcpy
+@_mig_dealloc_reply_port
+@_mig_get_reply_port
+@_mig_put_reply_port
+@_mmap
+@_munmap
+@_open
+@_os_log_type_enabled
+@_posix_spawn
+@_posix_spawnattr_destroy
+@_posix_spawnattr_init
+@_posix_spawnattr_setflags
+@_proc_pidpath
+@_read
+@_realpath$DARWIN_EXTSN
+@_sandbox_check
+@_sandbox_extension_consume
+@_sandbox_extension_release
+@_setuid
+@_sleep
+@_stat
+@_strcmp
+@_strdup
+@_strlen
+@_strncmp
+@_strncpy
+@_strtok
+@_task_info
+@_unsetenv
+@_usleep
+@_vm_protect
+@_vm_region_64
+@_vm_remap
+@_vm_write
+A_voucher_mach_msg_set
+HookFunctions
+UOpenImage
+[CloseImage
+aFindSymbols
+gExecMemory
+mWriteMemory
+lD,8888
+_LHCloseImage
+_LHExecMemory
+_LHFindSymbols
+_LHHookFunctions
+_LHOpenImage
+_LHWriteMemory
+_NDR_record
+_SANDBOX_CHECK_NO_REPORT
+__Block_object_assign
+__Block_object_dispose
+__NSConcreteGlobalBlock
+__NSConcreteStackBlock
+___chkstk_darwin
+___error
+___memcpy_chk
+___shared_region_check_np
+___snprintf_chk
+___stack_chk_fail
+___stack_chk_guard
+__dyld_get_image_header
+__dyld_get_image_name
+__dyld_get_image_vmaddr_slide
+__dyld_image_count
+__os_log_default
+__os_log_error_impl
+_abort
+_bootstrap_look_up
+_bootstrap_port
+_bzero
+_close
+_csops
+_csops_audittoken
+_dispatch_async
+_dispatch_once
+_dispatch_queue_create
+_dlclose
+_dlopen
+_dlsym
+_execve
+_exit
+_fcntl
+_fork
+_free
+_getenv
+_getpagesize
+_getpid
+_lseek
+_lstat
+_mach_msg
+_mach_msg_destroy
+_mach_port_deallocate
+_mach_task_self_
+_malloc
+_memcmp
+_memcpy
+_mig_dealloc_reply_port
+_mig_get_reply_port
+_mig_put_reply_port
+_mmap
+_munmap
+_open
+_os_log_type_enabled
+_posix_spawn
+_posix_spawnattr_destroy
+_posix_spawnattr_init
+_posix_spawnattr_setflags
+_proc_pidpath
+_read
+_realpath$DARWIN_EXTSN
+_sandbox_check
+_sandbox_extension_consume
+_sandbox_extension_release
+_setuid
+_sleep
+_stat
+_strcmp
+_strdup
+_strlen
+_strncmp
+_strncpy
+_strtok
+_task_info
+_unsetenv
+_usleep
+_vfork
+_vm_page_mask
+_vm_page_size
+_vm_protect
+_vm_region_64
+_vm_remap
+_vm_write
+_voucher_mach_msg_set
+dyld_stub_binder
+radr://5614542
+Npspawn_payload-stg2.dylib
+DQF6PC5T2P
+.O2!
+?tn,z3j
+r!9kvW
+^q5r'2_=
+AB7*}]
+pspawn_payload-stg2.dylib
+subject.CN
+(iPhone Distribution: jiu de (DQF6PC5T2P)
+Npspawn_payload-stg2.dylib
+DQF6PC5T2P
+<8b3s
+O[e:
+'i\BI%
+?;!""
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+060425214036Z
+350209214036Z0b1
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+, op
+https://www.apple.com/appleca/0
+Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+=&g 
+Sj[d
+uu!0
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+130207214847Z
+230207214847Z0
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority0
+awd^
+VXp-~
+Wng5
+YKwB
+'0%0#
+http://crl.apple.com/root.crl0
+m:Y\
+k[<=
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority0
+171218033527Z
+181218033527Z0
+DQF6PC5T2P110/
+(iPhone Distribution: jiu de (DQF6PC5T2P)1
+DQF6PC5T2P1
+jiu de1
+m%S.
+3010/
+#http://ocsp.apple.com/ocsp03-wwdr110
+Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.06
+*http://www.apple.com/certificateauthority/0
+NGK]&
+<X8i
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority
+XY0	
+220218022243Z0#
+H<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cdhashes</key>
+	<array>
+		<data>
+		n8iT7bE2vzG2oJZM1FULW+IrlpM=
+		</data>
+		<data>
+		RExmWOcH3BWbMH/8YdK2SaLOQx0=
+		</data>
+	</array>
+</dict>
+</plist>
+OWvI
+6\oK
+9*Vlj
+	)J=
+__TEXT
+__text
+__TEXT
+__auth_stubs
+__TEXT
+__cstring
+__TEXT
+__const
+__TEXT
+__unwind_info
+__TEXT
+__oslogstring
+__TEXT
+__DATA_CONST
+__auth_got
+__DATA_CONST
+__got
+__DATA_CONST
+__auth_ptr
+__DATA_CONST
+__mod_init_func
+__DATA_CONST
+__const
+__DATA_CONST
+__DATA
+__data
+__DATA
+__common
+__DATA
+__bss
+__DATA
+__LINKEDIT
+/Users/coolstar/Developer/Odyssey/basebinaries/bin/pspawn_payload-stg2.dylib
+/usr/lib/libc++.1.dylib
+/usr/lib/libSystem.B.dylib
+_8N%@8
+a	qa
+e	qa
+i	qa
+"@9h
+!F9	
+!YzC
+a@9H
+	*Hh
+/.disable_tweakinject
+/System/Library/CoreServices/SpringBoard.app/SpringBoard
+org.coolstar.safeboot
+v8@?0
+/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+kCFUserNotificationAlertHeaderKey
+kCFUserNotificationAlertMessageKey
+CFUserNotificationCreate
+kCFCopyStringDictionaryKeyCallBacks
+kCFTypeDictionaryValueCallBacks
+CFDictionaryCreateMutable
+CFDictionaryAddValue
+CFRelease
+__CFStringMakeConstantString
+Tweaks disabled
+Tweaks have been disabled. If you did not do this manually, this was done to automatically prevent a system crash. Use libhooker Configurator to re-enable tweaks.
+_fcntl
+_realpath$DARWIN_EXTSN
+process-fork
+DYLD_INSERT_LIBRARIES
+/usr/lib/system/libdyld.dylib
+_gUseDyld3
+_XSandboxTokensForTweakInject
+org.coolstar.jailbreakd
+DYLD_SHARED_CACHE_DIR
+_XSandboxTokensForTweakInject=
+/usr/lib/pspawn_payload-stg2.dylib
+DYLD_INSERT_LIBRARIES=
+/dyld_shared_cache_arm64e
+__ZNK16ImageLoaderMachO8getSlideEv
+__ZNK16ImageLoaderMachO10machHeaderEv
+__ZN4dyldL20sAllCacheImagesProxyE
+__ZN20ImageLoaderMegaDylib13isCacheHandleEPvPjPh
+__ZNK20ImageLoaderMegaDylib8getSlideEv
+__ZNK20ImageLoaderMegaDylib20getIndexedMachHeaderEj
+__ZNK5dyld311MachOLoaded8getSlideEv
+__TEXT
+dyld_v1 
+/System/Library/Caches/com.apple.dyld/
+%s%s%s
+dyld_shared_cache_
+libhooker: Unable to map trampoline
+libhooker: mmap failed!
+libhooker: couldn't find required dyld methods
+libhooker: couldn't find required dyld methods!
+libhooker: SIMD/FP LDR not implemented!
+@_NDR_record
+@_SANDBOX_CHECK_NO_REPORT
+@__Block_object_assign
+@__Block_object_dispose
+@__NSConcreteGlobalBlock
+@__NSConcreteStackBlock
+@___chkstk_darwin
+@___error
+@___memcpy_chk
+@___shared_region_check_np
+@___snprintf_chk
+@___stack_chk_fail
+@___stack_chk_guard
+@__dyld_get_image_header
+@__dyld_get_image_name
+@__dyld_get_image_vmaddr_slide
+@__dyld_image_count
+@__os_log_default
+@__os_log_error_impl
+@_abort
+@_bootstrap_look_up
+@_bootstrap_port
+@_bzero
+@_close
+@_csops
+@_csops_audittoken
+@_dispatch_async
+@_dispatch_once
+@_dispatch_queue_create
+@_dlclose
+@_dlopen
+@_dlsym
+@_execve
+@_exit
+@_fcntl
+@_fork
+@_free
+@_getenv
+@_getpagesize
+@_getpid
+@_lseek
+@_lstat
+@_mach_msg
+@_mach_msg_destroy
+@_mach_port_deallocate
+@_mach_task_self_
+@_malloc
+@_memcmp
+@_memcpy
+@_mig_dealloc_reply_port
+@_mig_get_reply_port
+@_mig_put_reply_port
+@_mmap
+@_munmap
+@_open
+@_os_log_type_enabled
+@_posix_spawn
+@_posix_spawnattr_destroy
+@_posix_spawnattr_init
+@_posix_spawnattr_setflags
+@_proc_pidpath
+@_read
+@_realpath$DARWIN_EXTSN
+@_sandbox_check
+@_sandbox_extension_consume
+@_sandbox_extension_release
+@_setuid
+@_sleep
+@_stat
+@_strcmp
+@_strdup
+@_strlen
+@_strncmp
+@_strncpy
+@_strtok
+@_task_info
+@_unsetenv
+@_usleep
+@_vfork
+@_vm_page_mask
+@_vm_page_size
+@_vm_protect
+@_vm_region_64
+@_vm_remap
+@_vm_write
+A_voucher_mach_msg_set
+HookFunctions
+UOpenImage
+[CloseImage
+aFindSymbols
+gExecMemory
+mWriteMemory
+lD,<<<<
+_LHCloseImage
+_LHExecMemory
+_LHFindSymbols
+_LHHookFunctions
+_LHOpenImage
+_LHWriteMemory
+_NDR_record
+_SANDBOX_CHECK_NO_REPORT
+__Block_object_assign
+__Block_object_dispose
+__NSConcreteGlobalBlock
+__NSConcreteStackBlock
+___chkstk_darwin
+___error
+___memcpy_chk
+___shared_region_check_np
+___snprintf_chk
+___stack_chk_fail
+___stack_chk_guard
+__dyld_get_image_header
+__dyld_get_image_name
+__dyld_get_image_vmaddr_slide
+__dyld_image_count
+__os_log_default
+__os_log_error_impl
+_abort
+_bootstrap_look_up
+_bootstrap_port
+_bzero
+_close
+_csops
+_csops_audittoken
+_dispatch_async
+_dispatch_once
+_dispatch_queue_create
+_dlclose
+_dlopen
+_dlsym
+_execve
+_exit
+_fcntl
+_fork
+_free
+_getenv
+_getpagesize
+_getpid
+_lseek
+_lstat
+_mach_msg
+_mach_msg_destroy
+_mach_port_deallocate
+_mach_task_self_
+_malloc
+_memcmp
+_memcpy
+_mig_dealloc_reply_port
+_mig_get_reply_port
+_mig_put_reply_port
+_mmap
+_munmap
+_open
+_os_log_type_enabled
+_posix_spawn
+_posix_spawnattr_destroy
+_posix_spawnattr_init
+_posix_spawnattr_setflags
+_proc_pidpath
+_read
+_realpath$DARWIN_EXTSN
+_sandbox_check
+_sandbox_extension_consume
+_sandbox_extension_release
+_setuid
+_sleep
+_stat
+_strcmp
+_strdup
+_strlen
+_strncmp
+_strncpy
+_strtok
+_task_info
+_unsetenv
+_usleep
+_vfork
+_vm_page_mask
+_vm_page_size
+_vm_protect
+_vm_region_64
+_vm_remap
+_vm_write
+_voucher_mach_msg_set
+radr://5614542
+Npspawn_payload-stg2.dylib
+DQF6PC5T2P
+RS{=?M
+pspawn_payload-stg2.dylib
+subject.CN
+(iPhone Distribution: jiu de (DQF6PC5T2P)
+Npspawn_payload-stg2.dylib
+DQF6PC5T2P
+<8b3s
+l<(I
+%E!3d
+oel|
+If?@l
+'i\BI%
+?m8h
+\;]iK
+eg5EG
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+060425214036Z
+350209214036Z0b1
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+, op
+https://www.apple.com/appleca/0
+Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+=&g 
+Sj[d
+uu!0
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+130207214847Z
+230207214847Z0
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority0
+awd^
+VXp-~
+Wng5
+YKwB
+'0%0#
+http://crl.apple.com/root.crl0
+m:Y\
+k[<=
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority0
+171218033527Z
+181218033527Z0
+DQF6PC5T2P110/
+(iPhone Distribution: jiu de (DQF6PC5T2P)1
+DQF6PC5T2P1
+jiu de1
+m%S.
+3010/
+#http://ocsp.apple.com/ocsp03-wwdr110
+Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.06
+*http://www.apple.com/certificateauthority/0
+NGK]&
+<X8i
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority
+XY0	
+220218022243Z0#
+5"o5%
+H<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cdhashes</key>
+	<array>
+		<data>
+		FvO4jtR+oLz+hjUibzUlAZx6acM=
+		</data>
+		<data>
+		qnW3BRyWvbGILDQvC92b+nvQ3cY=
+		</data>
+	</array>
+</dict>
+</plist>
+)VBI]=

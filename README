@@ -5,6 +5,15 @@ Various assets in Taurine
 
 Dumped from https://github.com/Odyssey-Team/Taurine
 
-TODO: Dump from https://github.com/Odyssey-Team/Odyssey as well
+common/persona_kb_template: I am not 100% sure about what 
+this is...
+All base binaries contains the following string:
+iPhone Distribution: jiu de (DQF6PC5T2P), which is 
+(probably) a certificate from China.
+
+Licensing
+=========
+This README is licensed under the MIT license.
+Consult the LICENSE file in each subdirectory for their licenses.
 
 This product includes software developed by The Odyssey Team.

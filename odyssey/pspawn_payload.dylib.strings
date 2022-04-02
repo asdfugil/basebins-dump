@@ -1,0 +1,930 @@
+__TEXT
+__text
+__TEXT
+__stubs
+__TEXT
+__stub_helper
+__TEXT
+__const
+__TEXT
+__cstring
+__TEXT
+__unwind_info
+__TEXT
+__DATA_CONST
+__got
+__DATA_CONST
+__mod_init_func
+__DATA_CONST
+__const
+__DATA_CONST
+__DATA
+__la_symbol_ptr
+__DATA
+__data
+__DATA
+__common
+__DATA
+__bss
+__DATA
+__LINKEDIT
+/Users/coolstar/Developer/Odyssey/basebinaries/bin/pspawn_payload.dylib
+/System/Library/Frameworks/IOKit.framework/Versions/A/IOKit
+/usr/lib/libSystem.B.dylib
+a	qa
+e	qa
+i	qa
+j78h
+	Aj#
+	@z`
+j 8w
+_8N%@8
+jh8_
+bplist00
+	!YRunAtLoadXUserName^POSIXSpawnType\MachServices_
+ProgramArguments\LaunchEventsYKeepAliveULabel	Troot[Interactive
+com.apple.MobileFileIntegrity
+HostSpecialPort
+/usr/libexec/amfid
+com.apple.fsevents.matching
+9com.apple.MobileFileIntegrity.CodeRequirementPrefsChanged_
+;com.apple.MobileFileIntegrity.LibraryValidationPrefsChanged_
+4com.apple.MobileFileIntegrity.LegacyAllowlistChanged
+TPath_
+>/Library/Preferences/com.apple.security.coderequirements.plist
+?/Library/Preferences/com.apple.security.libraryvalidation.plist
+n/Library/Apple/System/Library/CoreServices/XProtect.bundle/Contents/Resources/LegacyEntitlementAllowlist.plist	_
+com.apple.MobileFileIntegrity
+com.apple.diagnosticd
+com.apple.logd
+com.apple.Maps.mapspushd
+com.apple.notifyd
+OTAPKIAssetTool
+com.apple.FileProvider.LocalStorage
+jailbreakd
+amfidebilitate
+com.apple.MobileFileIntegrity
+org.coolstar.recovery
+com.apple.misagent
+/System/Library/LaunchDaemons/com.apple.logd.plist
+/System/Library/LaunchDaemons/com.apple.DumpPanic.plist
+jailbreakd BSOD handler failed: %s (0x%x)
+/Library
+/private/var/mobile/Library
+/private/var/mnt
+/private/var/db
+/private/var/stash
+/Applications
+/System
+/usr/lib/libSystem.B.dylib
+posix_spawn
+posix_spawnp
+posix_spawnattr_setjetsam_ext
+csops
+csops_audittoken
+sandbox_check_by_audit_token
+xpc_dictionary_get_value
+open_dprotected_np
+close
+/var/run/amfidtakeover.pid
+/var/run/jailbreakd.pid
+/private/var//keybags/persona.kb
+/.libhooker_recovery
+_XSandboxTokensForTweakInject
+/usr/libexec/watchdogd
+/System/Library/Frameworks/IOKit.framework/IOKit
+IOConnectCallStructMethod
+org.coolstar.jailbreakd
+/usr/libexec/keybagd
+/tmp/.rebootstrapping_odyssey
+SPLASH=1
+SPIN=1
+/odyssey/jailbreakd
+/System/Library/LaunchDaemons/com.apple.MobileFileIntegrity.plist
+/odyssey/amfidebilitate.plist
+/var/run/amfidebilitate.pid
+/odyssey/jailbreakd.plist
+/usr/lib/pspawn_payload-stg2.dylib
+/.disable_tweakinject
+/usr/libexec/xpcproxy
+/odyssey/pspawn_payload.dylib
+/sbin/launchd
+XPC_SERVICES_UNAVAILABLE=1
+/usr/libexec/amfid
+DYLD_INSERT_LIBRARIES
+/usr/lib/TweakInject.dylib
+DYLD_SHARED_CACHE_DIR
+_XSandboxTokensForTweakInject=
+/odyssey/amfidebilitate
+DYLD_INSERT_LIBRARIES=
+/dyld_shared_cache_arm64
+mach-
+lookup
+com.apple.ReportCrash.SimulateCrash
+LaunchDaemons
+/private/var/keybags/persona.kb.tmp
+/private/var/keybags/persona.kb.old
+com.apple.app-sandbox.read
+com.apple.sandbox.executable
+IOWatchdog
+paths
+subsystem
+disable
+type
+handle
+routine
+error
+/odyssey/amfid.plist
+enable
+legacy
+services
+B24@?0r*8^v16
+Error:  %d - %s
+Unable to get launchd: %d
+/Library/LaunchDaemons/
+.plist
+jailbreakd.plist
+com.openssh.sshd.plist
+com.mkj.dropbear.plist
+%s%s
+RECOVERYUI
+KeepAlive
+RunAtLoad
+UserName
+root
+Program
+Label
+EnvironmentVariables
+SubmitJob
+request
+__LINKEDIT
+__DATA
+__DATA_CONST
+!`UARA`
+``B[ARAX
+@_kIOMasterPortDefault
+@_NDR_record
+@__NSConcreteStackBlock
+@___chkstk_darwin
+@___stack_chk_guard
+@___stderrp
+@__os_alloc_once_table
+@__xpc_type_dictionary
+@_bootstrap_port
+@_mach_task_self_
+A_voucher_mach_msg_set
+@dyld_stub_binder
+@_IOConnectCallScalarMethod
+@_IOObjectRelease
+@_IOServiceClose
+@_IOServiceGetMatchingService
+@_IOServiceMatching
+@_IOServiceOpen
+@__Block_object_assign
+@__Block_object_dispose
+@___error
+@___memcpy_chk
+@___snprintf_chk
+@___sprintf_chk
+@___stack_chk_fail
+@__dyld_get_image_header
+@__dyld_get_image_vmaddr_slide
+@__dyld_image_count
+@__dyld_register_func_for_add_image
+@_bootstrap_look_up
+@_bzero
+@_calloc
+@_chmod
+@_chown
+@_close
+@_closedir
+@_dladdr
+@_dlopen
+@_dlsym
+@_exit
+@_fclose
+@_fcntl
+@_fopen
+@_fprintf
+@_free
+@_fwrite
+@_getenv
+@_getpid
+@_getuid
+@_host_get_special_port
+@_kill
+@_mach_error_string
+@_mach_host_self
+@_mach_msg
+@_mach_msg_destroy
+@_mach_port_deallocate
+@_malloc
+@_memcmp
+@_memcpy
+@_mig_dealloc_reply_port
+@_mig_get_reply_port
+@_mig_put_reply_port
+@_mprotect
+@_open
+@_opendir
+@_posix_spawn
+@_posix_spawnattr_destroy
+@_posix_spawnattr_init
+@_posix_spawnattr_setflags
+@_proc_pidpath
+@_pthread_create
+@_pthread_detach
+@_pthread_join
+@_readdir
+@_realpath$DARWIN_EXTSN
+@_rename
+@_sandbox_extension_issue_file
+@_setenv
+@_sleep
+@_stat
+@_strcmp
+@_strdup
+@_strlen
+@_strncmp
+@_strncpy
+@_strndup
+@_strrchr
+@_strtok
+@_sysctl
+@_unlink
+@_usleep
+@_vm_region_64
+A_voucher_mach_msg_set
+@_waitpid
+@_xpc_array_create
+@_xpc_dictionary_apply
+@_xpc_dictionary_create
+@_xpc_dictionary_get_int64
+@_xpc_dictionary_get_value
+@_xpc_dictionary_set_bool
+@_xpc_dictionary_set_string
+@_xpc_dictionary_set_uint64
+@_xpc_dictionary_set_value
+@_xpc_get_type
+@_xpc_pipe_routine
+@_xpc_release
+@_xpc_strerror
+@_xpc_string_create
+_IOConnectCallScalarMethod
+_IOObjectRelease
+_IOServiceClose
+_IOServiceGetMatchingService
+_IOServiceMatching
+_IOServiceOpen
+_NDR_record
+__Block_object_assign
+__Block_object_dispose
+__NSConcreteStackBlock
+___chkstk_darwin
+___error
+___memcpy_chk
+___snprintf_chk
+___sprintf_chk
+___stack_chk_fail
+___stack_chk_guard
+___stderrp
+__dyld_get_image_header
+__dyld_get_image_vmaddr_slide
+__dyld_image_count
+__dyld_register_func_for_add_image
+__os_alloc_once_table
+__xpc_type_dictionary
+_bootstrap_look_up
+_bootstrap_port
+_bzero
+_calloc
+_chmod
+_chown
+_close
+_closedir
+_dladdr
+_dlopen
+_dlsym
+_exit
+_fclose
+_fcntl
+_fopen
+_fprintf
+_free
+_fwrite
+_getenv
+_getpid
+_getuid
+_host_get_special_port
+_kIOMasterPortDefault
+_kill
+_mach_error_string
+_mach_host_self
+_mach_msg
+_mach_msg_destroy
+_mach_port_deallocate
+_mach_task_self_
+_malloc
+_memcmp
+_memcpy
+_mig_dealloc_reply_port
+_mig_get_reply_port
+_mig_put_reply_port
+_mprotect
+_open
+_opendir
+_posix_spawn
+_posix_spawnattr_destroy
+_posix_spawnattr_init
+_posix_spawnattr_setflags
+_proc_pidpath
+_pthread_create
+_pthread_detach
+_pthread_join
+_readdir
+_realpath$DARWIN_EXTSN
+_rename
+_sandbox_extension_issue_file
+_setenv
+_sleep
+_stat
+_strcmp
+_strdup
+_strlen
+_strncmp
+_strncpy
+_strndup
+_strrchr
+_strtok
+_sysctl
+_unlink
+_usleep
+_vm_region_64
+_voucher_mach_msg_set
+_waitpid
+_xpc_array_create
+_xpc_dictionary_apply
+_xpc_dictionary_create
+_xpc_dictionary_get_int64
+_xpc_dictionary_get_value
+_xpc_dictionary_set_bool
+_xpc_dictionary_set_string
+_xpc_dictionary_set_uint64
+_xpc_dictionary_set_value
+_xpc_get_type
+_xpc_pipe_routine
+_xpc_release
+_xpc_strerror
+_xpc_string_create
+dyld_stub_binder
+radr://5614542
+Ipspawn_payload.dylib
+DQF6PC5T2P
+8h}y
+"%Ha
+pspawn_payload.dylib
+subject.CN
+(iPhone Distribution: jiu de (DQF6PC5T2P)
+Ipspawn_payload.dylib
+DQF6PC5T2P
+J<PG
+}a15
+Kzq~
+,eq+
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+060425214036Z
+350209214036Z0b1
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+, op
+https://www.apple.com/appleca/0
+Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+=&g 
+Sj[d
+uu!0
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+130207214847Z
+230207214847Z0
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority0
+awd^
+VXp-~
+Wng5
+YKwB
+'0%0#
+http://crl.apple.com/root.crl0
+m:Y\
+k[<=
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority0
+171218033527Z
+181218033527Z0
+DQF6PC5T2P110/
+(iPhone Distribution: jiu de (DQF6PC5T2P)1
+DQF6PC5T2P1
+jiu de1
+m%S.
+3010/
+#http://ocsp.apple.com/ocsp03-wwdr110
+Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.06
+*http://www.apple.com/certificateauthority/0
+NGK]&
+<X8i
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority
+XY0	
+220218022242Z0#
+(/]S
+H<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cdhashes</key>
+	<array>
+		<data>
+		p0LamM8oL11Tr7Ef4tVCjn4c/q4=
+		</data>
+		<data>
+		WV4cfBoAffUnEl/2NUQlai3A9yU=
+		</data>
+	</array>
+</dict>
+</plist>
+A}qm
+wN[^
+__TEXT
+__text
+__TEXT
+__auth_stubs
+__TEXT
+__const
+__TEXT
+__cstring
+__TEXT
+__unwind_info
+__TEXT
+__DATA_CONST
+__auth_got
+__DATA_CONST
+__got
+__DATA_CONST
+__auth_ptr
+__DATA_CONST
+__mod_init_func
+__DATA_CONST
+__const
+__DATA_CONST
+__DATA
+__data
+__DATA
+__common
+__DATA
+__bss
+__DATA
+__LINKEDIT
+/Users/coolstar/Developer/Odyssey/basebinaries/bin/pspawn_payload.dylib
+/System/Library/Frameworks/IOKit.framework/Versions/A/IOKit
+/usr/lib/libSystem.B.dylib
+a	qa
+e	qa
+i	qa
+j78h
+	Aj#
+aC9(
+aC9(
+	@z`
+j 8w
+_8N%@8
+jh8_
+OC)t
+bplist00
+	!YRunAtLoadXUserName^POSIXSpawnType\MachServices_
+ProgramArguments\LaunchEventsYKeepAliveULabel	Troot[Interactive
+com.apple.MobileFileIntegrity
+HostSpecialPort
+/usr/libexec/amfid
+com.apple.fsevents.matching
+9com.apple.MobileFileIntegrity.CodeRequirementPrefsChanged_
+;com.apple.MobileFileIntegrity.LibraryValidationPrefsChanged_
+4com.apple.MobileFileIntegrity.LegacyAllowlistChanged
+TPath_
+>/Library/Preferences/com.apple.security.coderequirements.plist
+?/Library/Preferences/com.apple.security.libraryvalidation.plist
+n/Library/Apple/System/Library/CoreServices/XProtect.bundle/Contents/Resources/LegacyEntitlementAllowlist.plist	_
+com.apple.MobileFileIntegrity
+com.apple.diagnosticd
+com.apple.logd
+com.apple.Maps.mapspushd
+com.apple.notifyd
+OTAPKIAssetTool
+com.apple.FileProvider.LocalStorage
+jailbreakd
+amfidebilitate
+com.apple.MobileFileIntegrity
+org.coolstar.recovery
+com.apple.misagent
+/System/Library/LaunchDaemons/com.apple.logd.plist
+/System/Library/LaunchDaemons/com.apple.DumpPanic.plist
+jailbreakd BSOD handler failed: %s (0x%x)
+/Library
+/private/var/mobile/Library
+/private/var/mnt
+/private/var/db
+/private/var/stash
+/Applications
+/System
+/usr/lib/libSystem.B.dylib
+posix_spawn
+posix_spawnp
+posix_spawnattr_setjetsam_ext
+csops
+csops_audittoken
+sandbox_check_by_audit_token
+xpc_dictionary_get_value
+open_dprotected_np
+close
+/var/run/amfidtakeover.pid
+/var/run/jailbreakd.pid
+/private/var//keybags/persona.kb
+/.libhooker_recovery
+_XSandboxTokensForTweakInject
+/usr/libexec/watchdogd
+/System/Library/Frameworks/IOKit.framework/IOKit
+IOConnectCallStructMethod
+org.coolstar.jailbreakd
+/usr/libexec/keybagd
+/tmp/.rebootstrapping_odyssey
+SPLASH=1
+SPIN=1
+/odyssey/jailbreakd
+/System/Library/LaunchDaemons/com.apple.MobileFileIntegrity.plist
+/odyssey/amfidebilitate.plist
+/var/run/amfidebilitate.pid
+/odyssey/jailbreakd.plist
+/usr/lib/pspawn_payload-stg2.dylib
+/.disable_tweakinject
+/usr/libexec/xpcproxy
+/odyssey/pspawn_payload.dylib
+/sbin/launchd
+XPC_SERVICES_UNAVAILABLE=1
+/usr/libexec/amfid
+DYLD_INSERT_LIBRARIES
+/usr/lib/TweakInject.dylib
+DYLD_SHARED_CACHE_DIR
+_XSandboxTokensForTweakInject=
+/odyssey/amfidebilitate
+DYLD_INSERT_LIBRARIES=
+/dyld_shared_cache_arm64e
+mach-
+lookup
+com.apple.ReportCrash.SimulateCrash
+LaunchDaemons
+/private/var/keybags/persona.kb.tmp
+/private/var/keybags/persona.kb.old
+com.apple.app-sandbox.read
+com.apple.sandbox.executable
+IOWatchdog
+paths
+subsystem
+disable
+type
+handle
+routine
+error
+/odyssey/amfid.plist
+enable
+legacy
+services
+B24@?0r*8^v16
+Error:  %d - %s
+Unable to get launchd: %d
+/Library/LaunchDaemons/
+.plist
+jailbreakd.plist
+com.openssh.sshd.plist
+com.mkj.dropbear.plist
+%s%s
+RECOVERYUI
+KeepAlive
+RunAtLoad
+UserName
+root
+Program
+Label
+EnvironmentVariables
+SubmitJob
+request
+__LINKEDIT
+__DATA
+__DATA_CONST
+__auth_ptr
+__auth
+@_IOConnectCallScalarMethod
+@_IOObjectRelease
+@_IOServiceClose
+@_IOServiceGetMatchingService
+@_IOServiceMatching
+@_IOServiceOpen
+@_kIOMasterPortDefault
+@_NDR_record
+@__Block_object_assign
+@__Block_object_dispose
+@__NSConcreteStackBlock
+@___chkstk_darwin
+@___error
+@___memcpy_chk
+@___snprintf_chk
+@___sprintf_chk
+@___stack_chk_fail
+@___stack_chk_guard
+@___stderrp
+@__dyld_get_image_header
+@__dyld_get_image_vmaddr_slide
+@__dyld_image_count
+@__dyld_register_func_for_add_image
+@__os_alloc_once_table
+@__xpc_type_dictionary
+@_bootstrap_look_up
+@_bootstrap_port
+@_bzero
+@_calloc
+@_chmod
+@_chown
+@_close
+@_closedir
+@_dladdr
+@_dlopen
+@_dlsym
+@_exit
+@_fclose
+@_fcntl
+@_fopen
+@_fprintf
+@_free
+@_fwrite
+@_getenv
+@_getpid
+@_getuid
+@_host_get_special_port
+@_kill
+@_mach_error_string
+@_mach_host_self
+@_mach_msg
+@_mach_msg_destroy
+@_mach_port_deallocate
+@_mach_task_self_
+@_malloc
+@_memcmp
+@_memcpy
+@_mig_dealloc_reply_port
+@_mig_get_reply_port
+@_mig_put_reply_port
+@_mprotect
+@_open
+@_opendir
+@_posix_spawn
+@_posix_spawnattr_destroy
+@_posix_spawnattr_init
+@_posix_spawnattr_setflags
+@_proc_pidpath
+@_pthread_create
+@_pthread_detach
+@_pthread_join
+@_readdir
+@_realpath$DARWIN_EXTSN
+@_rename
+@_sandbox_extension_issue_file
+@_setenv
+@_sleep
+@_stat
+@_strcmp
+@_strdup
+@_strlen
+@_strncmp
+@_strncpy
+@_strndup
+@_strrchr
+@_strtok
+@_sysctl
+@_unlink
+@_usleep
+@_vm_region_64
+A_voucher_mach_msg_set
+@_waitpid
+@_xpc_array_create
+@_xpc_dictionary_apply
+@_xpc_dictionary_create
+@_xpc_dictionary_get_int64
+@_xpc_dictionary_get_value
+@_xpc_dictionary_set_bool
+@_xpc_dictionary_set_string
+@_xpc_dictionary_set_uint64
+@_xpc_dictionary_set_value
+@_xpc_get_type
+@_xpc_pipe_routine
+@_xpc_release
+@_xpc_strerror
+@_xpc_string_create
+_IOConnectCallScalarMethod
+_IOObjectRelease
+_IOServiceClose
+_IOServiceGetMatchingService
+_IOServiceMatching
+_IOServiceOpen
+_NDR_record
+__Block_object_assign
+__Block_object_dispose
+__NSConcreteStackBlock
+___chkstk_darwin
+___error
+___memcpy_chk
+___snprintf_chk
+___sprintf_chk
+___stack_chk_fail
+___stack_chk_guard
+___stderrp
+__dyld_get_image_header
+__dyld_get_image_vmaddr_slide
+__dyld_image_count
+__dyld_register_func_for_add_image
+__os_alloc_once_table
+__xpc_type_dictionary
+_bootstrap_look_up
+_bootstrap_port
+_bzero
+_calloc
+_chmod
+_chown
+_close
+_closedir
+_dladdr
+_dlopen
+_dlsym
+_exit
+_fclose
+_fcntl
+_fopen
+_fprintf
+_free
+_fwrite
+_getenv
+_getpid
+_getuid
+_host_get_special_port
+_kIOMasterPortDefault
+_kill
+_mach_error_string
+_mach_host_self
+_mach_msg
+_mach_msg_destroy
+_mach_port_deallocate
+_mach_task_self_
+_malloc
+_memcmp
+_memcpy
+_mig_dealloc_reply_port
+_mig_get_reply_port
+_mig_put_reply_port
+_mprotect
+_open
+_opendir
+_posix_spawn
+_posix_spawnattr_destroy
+_posix_spawnattr_init
+_posix_spawnattr_setflags
+_proc_pidpath
+_pthread_create
+_pthread_detach
+_pthread_join
+_readdir
+_realpath$DARWIN_EXTSN
+_rename
+_sandbox_extension_issue_file
+_setenv
+_sleep
+_stat
+_strcmp
+_strdup
+_strlen
+_strncmp
+_strncpy
+_strndup
+_strrchr
+_strtok
+_sysctl
+_unlink
+_usleep
+_vm_region_64
+_voucher_mach_msg_set
+_waitpid
+_xpc_array_create
+_xpc_dictionary_apply
+_xpc_dictionary_create
+_xpc_dictionary_get_int64
+_xpc_dictionary_get_value
+_xpc_dictionary_set_bool
+_xpc_dictionary_set_string
+_xpc_dictionary_set_uint64
+_xpc_dictionary_set_value
+_xpc_get_type
+_xpc_pipe_routine
+_xpc_release
+_xpc_strerror
+_xpc_string_create
+radr://5614542
+Ipspawn_payload.dylib
+DQF6PC5T2P
+8h}y
+ &?(
+U)1SDx
+fw(X
+pspawn_payload.dylib
+subject.CN
+(iPhone Distribution: jiu de (DQF6PC5T2P)
+Ipspawn_payload.dylib
+DQF6PC5T2P
+J<PG
+/odM
+eU#$q
+j}^P\
+`L8u@U
+:2|9uWu
+i$ux
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+060425214036Z
+350209214036Z0b1
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+, op
+https://www.apple.com/appleca/0
+Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+=&g 
+Sj[d
+uu!0
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+130207214847Z
+230207214847Z0
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority0
+awd^
+VXp-~
+Wng5
+YKwB
+'0%0#
+http://crl.apple.com/root.crl0
+m:Y\
+k[<=
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority0
+171218033527Z
+181218033527Z0
+DQF6PC5T2P110/
+(iPhone Distribution: jiu de (DQF6PC5T2P)1
+DQF6PC5T2P1
+jiu de1
+m%S.
+3010/
+#http://ocsp.apple.com/ocsp03-wwdr110
+Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.06
+*http://www.apple.com/certificateauthority/0
+NGK]&
+<X8i
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority
+XY0	
+220218022242Z0#
+H<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cdhashes</key>
+	<array>
+		<data>
+		2ICTpEEu9yH/ORBspGZ7eOOPd28=
+		</data>
+		<data>
+		hGmY7Inix5Va4vwYqGG0fSVu5v8=
+		</data>
+	</array>
+</dict>
+</plist>
+[eNN
+yL=J
+ng]j
++P('6
