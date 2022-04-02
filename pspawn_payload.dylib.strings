@@ -1,0 +1,1298 @@
+__TEXT
+__text
+__TEXT
+__stubs
+__TEXT
+__stub_helper
+__TEXT
+__const
+__TEXT
+__cstring
+__TEXT
+__gcc_except_tab__TEXT
+__unwind_info
+__TEXT
+__DATA_CONST
+__got
+__DATA_CONST
+__mod_init_func
+__DATA_CONST
+__const
+__DATA_CONST
+__DATA
+__la_symbol_ptr
+__DATA
+__data
+__DATA
+__common
+__DATA
+__bss
+__DATA
+__LINKEDIT
+/Users/coolstar/Developer/Taurine/basebinaries/bin/pspawn_payload.dylib
+/System/Library/Frameworks/IOKit.framework/Versions/A/IOKit
+/usr/lib/libc++.1.dylib
+/usr/lib/libbsm.0.dylib
+/usr/lib/libSystem.B.dylib
+a	qa
+e	qa
+i	qa
+4`.E
+Rhj<8h
+Rhk<8(
+Rhk:8(
+Rhk98
+Rhk88
+Rhk78
+Rhk68
+	Aj#
+R({t
+R({s
+	@z`
+j 8w
+?a	q
+a	Qiw
+?a	q
+bplist00
+	!YRunAtLoadXUserName^POSIXSpawnType\MachServices_
+ProgramArguments\LaunchEventsYKeepAliveULabel	Troot[Interactive
+com.apple.MobileFileIntegrity
+HostSpecialPort
+/usr/libexec/amfid
+com.apple.fsevents.matching
+9com.apple.MobileFileIntegrity.CodeRequirementPrefsChanged_
+;com.apple.MobileFileIntegrity.LibraryValidationPrefsChanged_
+4com.apple.MobileFileIntegrity.LegacyAllowlistChanged
+TPath_
+>/Library/Preferences/com.apple.security.coderequirements.plist
+?/Library/Preferences/com.apple.security.libraryvalidation.plist
+n/Library/Apple/System/Library/CoreServices/XProtect.bundle/Contents/Resources/LegacyEntitlementAllowlist.plist	_
+com.apple.MobileFileIntegrity
+NSt3__117bad_function_callE
+NSt3__110__function6__funcIZN8KernelRW24handoffPrimitivePatchingEjE3$_0NS_9allocatorIS3_EEFvvEEE
+NSt3__110__function6__baseIFvvEEE
+ZN8KernelRW24handoffPrimitivePatchingEjE3$_0
+NSt3__110__function6__funcIZN8KernelRW25doRemotePrimitivePatchingEjyE3$_1NS_9allocatorIS3_EEFyyEEE
+NSt3__110__function6__baseIFyyEEE
+ZN8KernelRW25doRemotePrimitivePatchingEjyE3$_1
+NSt3__110__function6__funcIZN8KernelRW18getKobjAddrForPortEjE3$_2NS_9allocatorIS3_EEFyyEEE
+ZN8KernelRW18getKobjAddrForPortEjE3$_2
+N8tihmstar9exceptionE
+NSt3__110__function6__funcIZL21getKernelRwPrimitivesvE3$_2NS_9allocatorIS2_EEFvvEEE
+ZL21getKernelRwPrimitivesvE3$_2
+NSt3__110__function6__funcIZ19handoffUnsafeKernRwE3$_0NS_9allocatorIS2_EEFvvEEE
+Z19handoffUnsafeKernRwE3$_0
+NSt3__110__function6__funcIZ19handoffUnsafeKernRwE3$_1NS_9allocatorIS2_EEFvvEEE
+Z19handoffUnsafeKernRwE3$_1
+com.apple.diagnosticd
+com.apple.logd
+com.apple.Maps.mapspushd
+com.apple.notifyd
+OTAPKIAssetTool
+com.apple.FileProvider.LocalStorage
+jailbreakd
+amfidebilitate
+com.apple.MobileFileIntegrity
+org.coolstar.recovery
+com.apple.misagent
+/System/Library/LaunchDaemons/com.apple.logd.plist
+/System/Library/LaunchDaemons/com.apple.DumpPanic.plist
+jailbreakd BSOD handler failed: %s (0x%x)
+/Library
+/private/var/mobile/Library
+/private/var/mnt
+/private/var/db
+/Applications
+/System
+/usr/lib/libSystem.B.dylib
+posix_spawn
+posix_spawnp
+posix_spawnattr_setjetsam_ext
+csops
+csops_audittoken
+sandbox_check_by_audit_token
+xpc_dictionary_get_value
+open_dprotected_np
+close
+/var/run/amfidtakeover.pid
+/var/run/jailbreakd.pid
+/private/var//keybags/persona.kb
+/.libhooker_recovery
+_XSandboxTokensForTweakInject
+/usr/libexec/watchdogd
+/System/Library/Frameworks/IOKit.framework/IOKit
+IOConnectCallStructMethod
+org.coolstar.jailbreakd
+/usr/libexec/keybagd
+/tmp/.rebootstrapping_taurine
+SPLASH=1
+SPIN=1
+/taurine/jailbreakd
+/System/Library/LaunchDaemons/com.apple.MobileFileIntegrity.plist
+/taurine/amfidebilitate.plist
+/var/run/amfidebilitate.pid
+/taurine/jailbreakd.plist
+/usr/lib/pspawn_payload-stg2.dylib
+/.disable_tweakinject
+/usr/libexec/xpcproxy
+/taurine/pspawn_payload.dylib
+/sbin/launchd
+/var/run/launchd-handoff.pid
+HANDOFFLAUNCHD=1
+SPLASH=2
+XPC_SERVICES_UNAVAILABLE=1
+/usr/libexec/MobileStorageMounter
+/usr/libexec/amfid
+DYLD_INSERT_LIBRARIES
+/usr/lib/TweakInject.dylib
+DYLD_SHARED_CACHE_DIR
+_XSandboxTokensForTweakInject=
+/taurine/amfidebilitate
+DYLD_INSERT_LIBRARIES=
+/dyld_shared_cache_arm64
+mach-
+lookup
+com.apple.ReportCrash.SimulateCrash
+LaunchDaemons
+/private/var/keybags/persona.kb.tmp
+/private/var/keybags/persona.kb.old
+com.apple.app-sandbox.read
+com.apple.sandbox.executable
+IOWatchdog
+paths
+subsystem
+disable
+type
+handle
+routine
+error
+/taurine/amfid.plist
+enable
+legacy
+services
+B24@?0r*8^v16
+Error:  %d - %s
+Unable to get launchd: %d
+/usr/libexec/MobileStorageUnmounter
+DYLD_INSERT_LIBRARIES=/usr/lib/pspawn_payload-stg2.dylib
+/Library/LaunchDaemons/
+.plist
+jailbreakd.plist
+com.openssh.sshd.plist
+com.mkj.dropbear.plist
+%s%s
+RECOVERYUI
+KeepAlive
+RunAtLoad
+UserName
+root
+Program
+Label
+EnvironmentVariables
+SubmitJob
+request
+__LINKEDIT
+__DATA
+__DATA_CONST
+IOSurfaceRoot
+The people who are crazy enough to think they can change the world are the ones who do
+I Used To Be An Adventurer Like You, Then I Took An Arrow In The Knee.
+krw-proprietary/KernelRW.cpp
+Failed to open IOSurfaceRoot
+Failed to open IOSurfaceRootUserClient with error=0x%08x
+Failed to find lock_result_size
+Failed to create_surface_client_fast_path (internal) with error=0x%08x
+Failed to alloc context_read_port
+Failed to alloc context_write_port
+failed to set READ_CONTEXT_MAGIC
+Failed to alloc listenPort
+handoffPrimitivePatching send1 failed with error=0x%08x
+handoffPrimitivePatching rcv1 failed with error=0x%08x
+received bad msgh_id
+handoffPrimitivePatching send2 failed with error=0x%08x
+handoffPrimitivePatching rcv2 failed with error=0x%08x
+bad protocol done magic
+doRemotePrimitivePatching rcv1 failed with error=0x%08x
+doRemotePrimitivePatching send1 failed with error=0x%08x
+doRemotePrimitivePatching rcv2 failed with error=0x%08x
+doRemotePrimitivePatching send2 failed with error=0x%08x
+Failed to set context with error=0x%x08x
+kread32 failed with error=0x%08x
+Failed to set context with error=0x%08x
+kwrite64 failed with error=0x%08x
+Failed to find ip_context_offset
+krwServer.cpp
+Failed to get old exception port
+Failed to alloc trasmissionPort
+Failed to insert send right to trasmissionPort
+Failed to get remote thread list
+Failed to get remote thread state
+Failed to set exception port
+org.coolstar.kernrw-queue
+v8@?0
+host_set_special_port
+Failed to create fake thread
+Failed to set exception port to MACH_PORT_NULL
+Failed to set fake thread state
+Failed to get thread exception port
+SMVA`
+ARCSAp
+SBZAp
+ZARAp
+SAZARAp
+ZARAp
+ZARAQ"
+B`wB[ARAW
+@_kIOMasterPortDefault
+@__ZNKSt9exception4whatEv
+@__ZTISt9exception
+@__ZTVN10__cxxabiv117__class_type_infoE
+@__ZTVN10__cxxabiv120__si_class_type_infoE
+@__ZdlPv
+@__Znwm
+@___gxx_personality_v0
+@_NDR_record
+@__NSConcreteStackBlock
+@___chkstk_darwin
+@___stack_chk_guard
+@___stderrp
+@__dispatch_source_type_mach_recv
+@__os_alloc_once_table
+@__xpc_type_dictionary
+@_bootstrap_port
+@_mach_task_self_
+@_vm_page_size
+A_voucher_mach_msg_set
+@dyld_stub_binder
+@__ZdlPv
+@__Znwm
+@_IOConnectCallMethod
+@_IOConnectCallScalarMethod
+@_IOObjectRelease
+@_IOServiceClose
+@_IOServiceGetMatchingService
+@_IOServiceMatching
+@_IOServiceOpen
+@__Block_object_assign
+@__Block_object_dispose
+@__Unwind_Resume
+@__ZNKSt3__121__basic_string_commonILb1EE20__throw_length_errorEv
+@__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1ERKS5_
+@__ZNSt3__15mutex4lockEv
+@__ZNSt3__15mutex6unlockEv
+@__ZNSt3__15mutexD1Ev
+@__ZNSt9exceptionD2Ev
+@__ZSt9terminatev
+@___cxa_allocate_exception
+@___cxa_begin_catch
+@___cxa_end_catch
+@___cxa_free_exception
+@___cxa_get_exception_ptr
+@___cxa_throw
+@___error
+@___memcpy_chk
+@___stack_chk_fail
+@__dyld_get_image_header
+@__dyld_get_image_vmaddr_slide
+@__dyld_image_count
+@__dyld_register_func_for_add_image
+@__kernelrpc_mach_vm_deallocate_trap
+@_audit_token_to_euid
+@_audit_token_to_pid
+@_audit_token_to_ruid
+@_bootstrap_look_up
+@_bzero
+@_calloc
+@_chmod
+@_chown
+@_clonefile
+@_close
+@_closedir
+@_dispatch_mig_server
+@_dispatch_queue_attr_make_with_qos_class
+@_dispatch_queue_create
+@_dispatch_resume
+@_dispatch_source_create
+@_dispatch_source_set_event_handler
+@_dladdr
+@_dlopen
+@_dlsym
+@_exit
+@_fclose
+@_fcntl
+@_fopen
+@_fprintf
+@_free
+@_fwrite
+@_getenv
+@_getpid
+@_getuid
+@_host_get_special_port
+@_host_set_special_port
+@_kill
+@_mach_error_string
+@_mach_host_self
+@_mach_msg
+@_mach_msg_destroy
+@_mach_port_allocate
+@_mach_port_deallocate
+@_mach_port_destroy
+@_mach_port_insert_right
+@_mach_port_set_context
+@_malloc
+@_memcpy
+@_mig_dealloc_reply_port
+@_mig_get_reply_port
+@_mig_put_reply_port
+@_mprotect
+@_open
+@_opendir
+@_posix_spawn
+@_posix_spawnattr_destroy
+@_posix_spawnattr_init
+@_posix_spawnattr_setflags
+@_proc_pidpath
+@_pthread_create
+@_pthread_detach
+@_pthread_join
+@_readdir
+@_realpath$DARWIN_EXTSN
+@_rename
+@_sandbox_extension_issue_file
+@_setenv
+@_sleep
+@_snprintf
+@_sprintf
+@_stat
+@_strcmp
+@_strdup
+@_strlen
+@_strncmp
+@_strncpy
+@_strndup
+@_strrchr
+@_strtok
+@_sysctl
+@_task_for_pid
+@_task_get_exception_ports
+@_task_threads
+@_thread_create
+@_thread_get_exception_ports
+@_thread_get_state
+@_thread_set_exception_ports
+@_thread_set_state
+@_thread_terminate
+@_unlink
+@_usleep
+@_vasprintf
+@_vm_region_64
+A_voucher_mach_msg_set
+@_waitpid
+@_xpc_array_create
+@_xpc_dictionary_apply
+@_xpc_dictionary_create
+@_xpc_dictionary_get_int64
+@_xpc_dictionary_get_value
+@_xpc_dictionary_set_bool
+@_xpc_dictionary_set_string
+@_xpc_dictionary_set_uint64
+@_xpc_dictionary_set_value
+@_xpc_get_type
+@_xpc_pipe_routine
+@_xpc_release
+@_xpc_strerror
+@_xpc_string_create
+LLP$
+_IOConnectCallMethod
+_IOConnectCallScalarMethod
+_IOObjectRelease
+_IOServiceClose
+_IOServiceGetMatchingService
+_IOServiceMatching
+_IOServiceOpen
+_NDR_record
+__Block_object_assign
+__Block_object_dispose
+__NSConcreteStackBlock
+__Unwind_Resume
+__ZNKSt3__121__basic_string_commonILb1EE20__throw_length_errorEv
+__ZNKSt9exception4whatEv
+__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1ERKS5_
+__ZNSt3__15mutex4lockEv
+__ZNSt3__15mutex6unlockEv
+__ZNSt3__15mutexD1Ev
+__ZNSt9exceptionD2Ev
+__ZSt9terminatev
+__ZTISt9exception
+__ZTVN10__cxxabiv117__class_type_infoE
+__ZTVN10__cxxabiv120__si_class_type_infoE
+__ZdlPv
+__Znwm
+___chkstk_darwin
+___cxa_allocate_exception
+___cxa_begin_catch
+___cxa_end_catch
+___cxa_free_exception
+___cxa_get_exception_ptr
+___cxa_throw
+___error
+___gxx_personality_v0
+___memcpy_chk
+___stack_chk_fail
+___stack_chk_guard
+___stderrp
+__dispatch_source_type_mach_recv
+__dyld_get_image_header
+__dyld_get_image_vmaddr_slide
+__dyld_image_count
+__dyld_register_func_for_add_image
+__kernelrpc_mach_vm_deallocate_trap
+__os_alloc_once_table
+__xpc_type_dictionary
+_audit_token_to_euid
+_audit_token_to_pid
+_audit_token_to_ruid
+_bootstrap_look_up
+_bootstrap_port
+_bzero
+_calloc
+_chmod
+_chown
+_clonefile
+_close
+_closedir
+_dispatch_mig_server
+_dispatch_queue_attr_make_with_qos_class
+_dispatch_queue_create
+_dispatch_resume
+_dispatch_source_create
+_dispatch_source_set_event_handler
+_dladdr
+_dlopen
+_dlsym
+_exit
+_fclose
+_fcntl
+_fopen
+_fprintf
+_free
+_fwrite
+_getenv
+_getpid
+_getuid
+_host_get_special_port
+_host_set_special_port
+_kIOMasterPortDefault
+_kill
+_mach_error_string
+_mach_host_self
+_mach_msg
+_mach_msg_destroy
+_mach_port_allocate
+_mach_port_deallocate
+_mach_port_destroy
+_mach_port_insert_right
+_mach_port_set_context
+_mach_task_self_
+_malloc
+_memcpy
+_mig_dealloc_reply_port
+_mig_get_reply_port
+_mig_put_reply_port
+_mprotect
+_open
+_opendir
+_posix_spawn
+_posix_spawnattr_destroy
+_posix_spawnattr_init
+_posix_spawnattr_setflags
+_proc_pidpath
+_pthread_create
+_pthread_detach
+_pthread_join
+_readdir
+_realpath$DARWIN_EXTSN
+_rename
+_sandbox_extension_issue_file
+_setenv
+_sleep
+_snprintf
+_sprintf
+_stat
+_strcmp
+_strdup
+_strlen
+_strncmp
+_strncpy
+_strndup
+_strrchr
+_strtok
+_sysctl
+_task_for_pid
+_task_get_exception_ports
+_task_threads
+_thread_create
+_thread_get_exception_ports
+_thread_get_state
+_thread_set_exception_ports
+_thread_set_state
+_thread_terminate
+_unlink
+_usleep
+_vasprintf
+_vm_page_size
+_vm_region_64
+_voucher_mach_msg_set
+_waitpid
+_xpc_array_create
+_xpc_dictionary_apply
+_xpc_dictionary_create
+_xpc_dictionary_get_int64
+_xpc_dictionary_get_value
+_xpc_dictionary_set_bool
+_xpc_dictionary_set_string
+_xpc_dictionary_set_uint64
+_xpc_dictionary_set_value
+_xpc_get_type
+_xpc_pipe_routine
+_xpc_release
+_xpc_strerror
+_xpc_string_create
+dyld_stub_binder
+radr://5614542
+Ipspawn_payload.dylib
+DQF6PC5T2P
+8h}y
+I$0+M~
+RO.o0
+~&\8
+OIaR
+pspawn_payload.dylib
+subject.CN
+(iPhone Distribution: jiu de (DQF6PC5T2P)
+Ipspawn_payload.dylib
+DQF6PC5T2P
+J<PG
+ijdg
+A!B+
+~-_"
+7:wB
+HH&L&w
+ 	$n
+-8Pr
++GA]-
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+060425214036Z
+350209214036Z0b1
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+, op
+https://www.apple.com/appleca/0
+Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+=&g 
+Sj[d
+uu!0
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+130207214847Z
+230207214847Z0
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority0
+awd^
+VXp-~
+Wng5
+YKwB
+'0%0#
+http://crl.apple.com/root.crl0
+m:Y\
+k[<=
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority0
+171218033527Z
+181218033527Z0
+DQF6PC5T2P110/
+(iPhone Distribution: jiu de (DQF6PC5T2P)1
+DQF6PC5T2P1
+jiu de1
+m%S.
+3010/
+#http://ocsp.apple.com/ocsp03-wwdr110
+Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.06
+*http://www.apple.com/certificateauthority/0
+NGK]&
+<X8i
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority
+XY0	
+220307081121Z0#
+H<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cdhashes</key>
+	<array>
+		<data>
+		cLtQ0IzJhY+p6wyIUb50r7PyMlA=
+		</data>
+		<data>
+		kpB4EoFfI8qyklxRsYNNH1ehahc=
+		</data>
+	</array>
+</dict>
+</plist>
+os$n"
+E1MW
+kA0u
+__TEXT
+__text
+__TEXT
+__auth_stubs
+__TEXT
+__init_offsets
+__TEXT
+__const
+__TEXT
+__cstring
+__TEXT
+__gcc_except_tab__TEXT
+__unwind_info
+__TEXT
+__DATA_CONST
+__auth_got
+__DATA_CONST
+__got
+__DATA_CONST
+__auth_ptr
+__DATA_CONST
+__const
+__DATA_CONST
+__DATA
+__data
+__DATA
+__common
+__DATA
+__bss
+__DATA
+__LINKEDIT
+/Users/coolstar/Developer/Taurine/basebinaries/bin/pspawn_payload.dylib
+/System/Library/Frameworks/IOKit.framework/Versions/A/IOKit
+/usr/lib/libc++.1.dylib
+/usr/lib/libbsm.0.dylib
+/usr/lib/libSystem.B.dylib
+a	qa
+e	qa
+i	qa
+Rhj<8h
+Rhk<8(
+Rhk:8(
+Rhk98
+Rhk88
+Rhk78
+Rhk68
+	Aj#
+R({t
+R({s
+	@z`
+j 8w
+OC)4<
+?a	q
+?a	q
+a	Q)w
+bplist00
+	!YRunAtLoadXUserName^POSIXSpawnType\MachServices_
+ProgramArguments\LaunchEventsYKeepAliveULabel	Troot[Interactive
+com.apple.MobileFileIntegrity
+HostSpecialPort
+/usr/libexec/amfid
+com.apple.fsevents.matching
+9com.apple.MobileFileIntegrity.CodeRequirementPrefsChanged_
+;com.apple.MobileFileIntegrity.LibraryValidationPrefsChanged_
+4com.apple.MobileFileIntegrity.LegacyAllowlistChanged
+TPath_
+>/Library/Preferences/com.apple.security.coderequirements.plist
+?/Library/Preferences/com.apple.security.libraryvalidation.plist
+n/Library/Apple/System/Library/CoreServices/XProtect.bundle/Contents/Resources/LegacyEntitlementAllowlist.plist	_
+com.apple.MobileFileIntegrity
+NSt3__117bad_function_callE
+NSt3__110__function6__funcIZN8KernelRW24handoffPrimitivePatchingEjE3$_0NS_9allocatorIS3_EEFvvEEE
+NSt3__110__function6__baseIFvvEEE
+ZN8KernelRW24handoffPrimitivePatchingEjE3$_0
+NSt3__110__function6__funcIZN8KernelRW25doRemotePrimitivePatchingEjyE3$_1NS_9allocatorIS3_EEFyyEEE
+NSt3__110__function6__baseIFyyEEE
+ZN8KernelRW25doRemotePrimitivePatchingEjyE3$_1
+NSt3__110__function6__funcIZN8KernelRW18getKobjAddrForPortEjE3$_2NS_9allocatorIS3_EEFyyEEE
+ZN8KernelRW18getKobjAddrForPortEjE3$_2
+N8tihmstar9exceptionE
+NSt3__110__function6__funcIZL21getKernelRwPrimitivesvE3$_2NS_9allocatorIS2_EEFvvEEE
+ZL21getKernelRwPrimitivesvE3$_2
+NSt3__110__function6__funcIZ19handoffUnsafeKernRwE3$_0NS_9allocatorIS2_EEFvvEEE
+Z19handoffUnsafeKernRwE3$_0
+NSt3__110__function6__funcIZ19handoffUnsafeKernRwE3$_1NS_9allocatorIS2_EEFvvEEE
+Z19handoffUnsafeKernRwE3$_1
+com.apple.diagnosticd
+com.apple.logd
+com.apple.Maps.mapspushd
+com.apple.notifyd
+OTAPKIAssetTool
+com.apple.FileProvider.LocalStorage
+jailbreakd
+amfidebilitate
+com.apple.MobileFileIntegrity
+org.coolstar.recovery
+com.apple.misagent
+/System/Library/LaunchDaemons/com.apple.logd.plist
+/System/Library/LaunchDaemons/com.apple.DumpPanic.plist
+jailbreakd BSOD handler failed: %s (0x%x)
+/Library
+/private/var/mobile/Library
+/private/var/mnt
+/private/var/db
+/Applications
+/System
+/usr/lib/libSystem.B.dylib
+posix_spawn
+posix_spawnp
+posix_spawnattr_setjetsam_ext
+csops
+csops_audittoken
+sandbox_check_by_audit_token
+xpc_dictionary_get_value
+open_dprotected_np
+close
+/var/run/amfidtakeover.pid
+/var/run/jailbreakd.pid
+/private/var//keybags/persona.kb
+/.libhooker_recovery
+_XSandboxTokensForTweakInject
+/usr/libexec/watchdogd
+/System/Library/Frameworks/IOKit.framework/IOKit
+IOConnectCallStructMethod
+org.coolstar.jailbreakd
+/usr/libexec/keybagd
+/tmp/.rebootstrapping_taurine
+SPLASH=1
+SPIN=1
+/taurine/jailbreakd
+/System/Library/LaunchDaemons/com.apple.MobileFileIntegrity.plist
+/taurine/amfidebilitate.plist
+/var/run/amfidebilitate.pid
+/taurine/jailbreakd.plist
+/usr/lib/pspawn_payload-stg2.dylib
+/.disable_tweakinject
+/usr/libexec/xpcproxy
+/taurine/pspawn_payload.dylib
+/sbin/launchd
+/var/run/launchd-handoff.pid
+HANDOFFLAUNCHD=1
+SPLASH=2
+XPC_SERVICES_UNAVAILABLE=1
+/usr/libexec/MobileStorageMounter
+/usr/libexec/amfid
+DYLD_INSERT_LIBRARIES
+/usr/lib/TweakInject.dylib
+DYLD_SHARED_CACHE_DIR
+_XSandboxTokensForTweakInject=
+/taurine/amfidebilitate
+DYLD_INSERT_LIBRARIES=
+/dyld_shared_cache_arm64e
+mach-
+lookup
+com.apple.ReportCrash.SimulateCrash
+LaunchDaemons
+/private/var/keybags/persona.kb.tmp
+/private/var/keybags/persona.kb.old
+com.apple.app-sandbox.read
+com.apple.sandbox.executable
+IOWatchdog
+paths
+subsystem
+disable
+type
+handle
+routine
+error
+/taurine/amfid.plist
+enable
+legacy
+services
+B24@?0r*8^v16
+Error:  %d - %s
+Unable to get launchd: %d
+/usr/libexec/MobileStorageUnmounter
+DYLD_INSERT_LIBRARIES=/usr/lib/pspawn_payload-stg2.dylib
+/Library/LaunchDaemons/
+.plist
+jailbreakd.plist
+com.openssh.sshd.plist
+com.mkj.dropbear.plist
+%s%s
+RECOVERYUI
+KeepAlive
+RunAtLoad
+UserName
+root
+Program
+Label
+EnvironmentVariables
+SubmitJob
+request
+__LINKEDIT
+__DATA
+__DATA_CONST
+__auth_ptr
+__auth
+IOSurfaceRoot
+The people who are crazy enough to think they can change the world are the ones who do
+I Used To Be An Adventurer Like You, Then I Took An Arrow In The Knee.
+krw-proprietary/KernelRW.cpp
+Failed to open IOSurfaceRoot
+Failed to open IOSurfaceRootUserClient with error=0x%08x
+Failed to find lock_result_size
+Failed to create_surface_client_fast_path (internal) with error=0x%08x
+Failed to alloc context_read_port
+Failed to alloc context_write_port
+failed to set READ_CONTEXT_MAGIC
+Failed to alloc listenPort
+handoffPrimitivePatching send1 failed with error=0x%08x
+handoffPrimitivePatching rcv1 failed with error=0x%08x
+received bad msgh_id
+handoffPrimitivePatching send2 failed with error=0x%08x
+handoffPrimitivePatching rcv2 failed with error=0x%08x
+bad protocol done magic
+doRemotePrimitivePatching rcv1 failed with error=0x%08x
+doRemotePrimitivePatching send1 failed with error=0x%08x
+doRemotePrimitivePatching rcv2 failed with error=0x%08x
+doRemotePrimitivePatching send2 failed with error=0x%08x
+Failed to set context with error=0x%x08x
+kread32 failed with error=0x%08x
+Failed to set context with error=0x%08x
+kwrite64 failed with error=0x%08x
+Failed to find ip_context_offset
+krwServer.cpp
+Failed to get old exception port
+Failed to alloc trasmissionPort
+Failed to insert send right to trasmissionPort
+Failed to get remote thread list
+Failed to get remote thread state
+Failed to set exception port
+org.coolstar.kernrw-queue
+v8@?0
+host_set_special_port
+Failed to create fake thread
+Failed to set exception port to MACH_PORT_NULL
+Failed to set fake thread state
+Failed to get thread exception port
+_IOConnectCallMethod
+_IOConnectCallScalarMethod
+_IOObjectRelease
+_IOServiceClose
+_IOServiceGetMatchingService
+_IOServiceMatching
+_IOServiceOpen
+__Block_object_assign
+__Block_object_dispose
+__Unwind_Resume
+__ZNKSt3__121__basic_string_commonILb1EE20__throw_length_errorEv
+__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1ERKS5_
+__ZNSt3__15mutex4lockEv
+__ZNSt3__15mutex6unlockEv
+__ZNSt3__15mutexD1Ev
+__ZNSt9exceptionD2Ev
+__ZSt9terminatev
+__ZdlPv
+__Znwm
+___cxa_allocate_exception
+___cxa_begin_catch
+___cxa_end_catch
+___cxa_free_exception
+___cxa_get_exception_ptr
+___cxa_throw
+___error
+___memcpy_chk
+___stack_chk_fail
+__dyld_get_image_header
+__dyld_get_image_vmaddr_slide
+__dyld_image_count
+__dyld_register_func_for_add_image
+__kernelrpc_mach_vm_deallocate_trap
+_audit_token_to_euid
+_audit_token_to_pid
+_audit_token_to_ruid
+_bootstrap_look_up
+_bzero
+_calloc
+_chmod
+_chown
+_clonefile
+_close
+_closedir
+_dispatch_mig_server
+_dispatch_queue_attr_make_with_qos_class
+_dispatch_queue_create
+_dispatch_resume
+_dispatch_source_create
+_dispatch_source_set_event_handler
+_dladdr
+_dlopen
+_dlsym
+_exit
+_fclose
+_fcntl
+_fopen
+_fprintf
+_free
+_fwrite
+_getenv
+_getpid
+_getuid
+_host_get_special_port
+_host_set_special_port
+_kill
+_mach_error_string
+_mach_host_self
+_mach_msg
+_mach_msg_destroy
+_mach_port_allocate
+_mach_port_deallocate
+_mach_port_destroy
+_mach_port_insert_right
+_mach_port_set_context
+_malloc
+_memcpy
+_mig_dealloc_reply_port
+_mig_get_reply_port
+_mig_put_reply_port
+_mprotect
+_open
+_opendir
+_posix_spawn
+_posix_spawnattr_destroy
+_posix_spawnattr_init
+_posix_spawnattr_setflags
+_proc_pidpath
+_pthread_create
+_pthread_detach
+_pthread_join
+_readdir
+_realpath$DARWIN_EXTSN
+_rename
+_sandbox_extension_issue_file
+_setenv
+_sleep
+_snprintf
+_sprintf
+_stat
+_strcmp
+_strdup
+_strlen
+_strncmp
+_strncpy
+_strndup
+_strrchr
+_strtok
+_sysctl
+_task_for_pid
+_task_get_exception_ports
+_task_threads
+_thread_create
+_thread_get_exception_ports
+_thread_get_state
+_thread_set_exception_ports
+_thread_set_state
+_thread_terminate
+_unlink
+_usleep
+_vasprintf
+_vm_region_64
+_voucher_mach_msg_set
+_waitpid
+_xpc_array_create
+_xpc_dictionary_apply
+_xpc_dictionary_create
+_xpc_dictionary_get_int64
+_xpc_dictionary_get_value
+_xpc_dictionary_set_bool
+_xpc_dictionary_set_string
+_xpc_dictionary_set_uint64
+_xpc_dictionary_set_value
+_xpc_get_type
+_xpc_pipe_routine
+_xpc_release
+_xpc_strerror
+_xpc_string_create
+_NDR_record
+__NSConcreteStackBlock
+___gxx_personality_v0
+___stack_chk_guard
+___stderrp
+__dispatch_source_type_mach_recv
+__os_alloc_once_table
+__xpc_type_dictionary
+_bootstrap_port
+_kIOMasterPortDefault
+_mach_task_self_
+_vm_page_size
+___chkstk_darwin
+__ZTISt9exception
+__ZTVN10__cxxabiv120__si_class_type_infoE
+__ZNKSt9exception4whatEv
+__ZTVN10__cxxabiv117__class_type_infoE
+hhl$
+_IOConnectCallMethod
+_IOConnectCallScalarMethod
+_IOObjectRelease
+_IOServiceClose
+_IOServiceGetMatchingService
+_IOServiceMatching
+_IOServiceOpen
+_NDR_record
+__Block_object_assign
+__Block_object_dispose
+__NSConcreteStackBlock
+__Unwind_Resume
+__ZNKSt3__121__basic_string_commonILb1EE20__throw_length_errorEv
+__ZNKSt9exception4whatEv
+__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1ERKS5_
+__ZNSt3__15mutex4lockEv
+__ZNSt3__15mutex6unlockEv
+__ZNSt3__15mutexD1Ev
+__ZNSt9exceptionD2Ev
+__ZSt9terminatev
+__ZTISt9exception
+__ZTVN10__cxxabiv117__class_type_infoE
+__ZTVN10__cxxabiv120__si_class_type_infoE
+__ZdlPv
+__Znwm
+___chkstk_darwin
+___cxa_allocate_exception
+___cxa_begin_catch
+___cxa_end_catch
+___cxa_free_exception
+___cxa_get_exception_ptr
+___cxa_throw
+___error
+___gxx_personality_v0
+___memcpy_chk
+___stack_chk_fail
+___stack_chk_guard
+___stderrp
+__dispatch_source_type_mach_recv
+__dyld_get_image_header
+__dyld_get_image_vmaddr_slide
+__dyld_image_count
+__dyld_register_func_for_add_image
+__kernelrpc_mach_vm_deallocate_trap
+__os_alloc_once_table
+__xpc_type_dictionary
+_audit_token_to_euid
+_audit_token_to_pid
+_audit_token_to_ruid
+_bootstrap_look_up
+_bootstrap_port
+_bzero
+_calloc
+_chmod
+_chown
+_clonefile
+_close
+_closedir
+_dispatch_mig_server
+_dispatch_queue_attr_make_with_qos_class
+_dispatch_queue_create
+_dispatch_resume
+_dispatch_source_create
+_dispatch_source_set_event_handler
+_dladdr
+_dlopen
+_dlsym
+_exit
+_fclose
+_fcntl
+_fopen
+_fprintf
+_free
+_fwrite
+_getenv
+_getpid
+_getuid
+_host_get_special_port
+_host_set_special_port
+_kIOMasterPortDefault
+_kill
+_mach_error_string
+_mach_host_self
+_mach_msg
+_mach_msg_destroy
+_mach_port_allocate
+_mach_port_deallocate
+_mach_port_destroy
+_mach_port_insert_right
+_mach_port_set_context
+_mach_task_self_
+_malloc
+_memcpy
+_mig_dealloc_reply_port
+_mig_get_reply_port
+_mig_put_reply_port
+_mprotect
+_open
+_opendir
+_posix_spawn
+_posix_spawnattr_destroy
+_posix_spawnattr_init
+_posix_spawnattr_setflags
+_proc_pidpath
+_pthread_create
+_pthread_detach
+_pthread_join
+_readdir
+_realpath$DARWIN_EXTSN
+_rename
+_sandbox_extension_issue_file
+_setenv
+_sleep
+_snprintf
+_sprintf
+_stat
+_strcmp
+_strdup
+_strlen
+_strncmp
+_strncpy
+_strndup
+_strrchr
+_strtok
+_sysctl
+_task_for_pid
+_task_get_exception_ports
+_task_threads
+_thread_create
+_thread_get_exception_ports
+_thread_get_state
+_thread_set_exception_ports
+_thread_set_state
+_thread_terminate
+_unlink
+_usleep
+_vasprintf
+_vm_page_size
+_vm_region_64
+_voucher_mach_msg_set
+_waitpid
+_xpc_array_create
+_xpc_dictionary_apply
+_xpc_dictionary_create
+_xpc_dictionary_get_int64
+_xpc_dictionary_get_value
+_xpc_dictionary_set_bool
+_xpc_dictionary_set_string
+_xpc_dictionary_set_uint64
+_xpc_dictionary_set_value
+_xpc_get_type
+_xpc_pipe_routine
+_xpc_release
+_xpc_strerror
+_xpc_string_create
+radr://5614542
+Ipspawn_payload.dylib
+DQF6PC5T2P
+8h}y
+.yS9
+o/KD
+	3X(
+3y/;1
+=}c#
+pspawn_payload.dylib
+subject.CN
+(iPhone Distribution: jiu de (DQF6PC5T2P)
+Ipspawn_payload.dylib
+DQF6PC5T2P
+J<PG
+:$Mr
+`d}hY
+YFoy)
+ 2gDD	#P
+*	+!
+-C<52
+LE#MM
+q%gH
+LP}8
+E/.q
+Av}5{W*
+fNL+
+Bz=exO	
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+060425214036Z
+350209214036Z0b1
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+, op
+https://www.apple.com/appleca/0
+Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+=&g 
+Sj[d
+uu!0
+Apple Inc.1&0$
+Apple Certification Authority1
+Apple Root CA0
+130207214847Z
+230207214847Z0
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority0
+awd^
+VXp-~
+Wng5
+YKwB
+'0%0#
+http://crl.apple.com/root.crl0
+m:Y\
+k[<=
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority0
+171218033527Z
+181218033527Z0
+DQF6PC5T2P110/
+(iPhone Distribution: jiu de (DQF6PC5T2P)1
+DQF6PC5T2P1
+jiu de1
+m%S.
+3010/
+#http://ocsp.apple.com/ocsp03-wwdr110
+Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.06
+*http://www.apple.com/certificateauthority/0
+NGK]&
+<X8i
+Apple Inc.1,0*
+#Apple Worldwide Developer Relations1D0B
+;Apple Worldwide Developer Relations Certification Authority
+XY0	
+220307081121Z0#
+H<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cdhashes</key>
+	<array>
+		<data>
+		vhqj75axfKhsViEavsk1hRS5r2Q=
+		</data>
+		<data>
+		CyhCBfDP0cZtrtACEoaPoxpcJNI=
+		</data>
+	</array>
+</dict>
+</plist>
+B/P"6(
+/1aR
